@@ -1,0 +1,9 @@
+{
+    "patches": [
+        {
+            "label": "2025-10-28_13-38-04",
+            "content": "class Chinela:\n    def __init__(self):    \n        self.tamanho: int = 0  \n\n    def __str__(self):\n        return f\"tamanho da chinela: {self.tamanho}\"\n\n    def gettamanho(self): \n        return self.tamanho\n\n    def settamanho(self, valor: int):\n        if valor < 20 or valor > 50:\n            print(\"erro\")\n        elif valor % 2 != 0:\n            print(\"erro\")\n        else:\n            self.tamanho = valor\n            print(\"YES\")\n\ndef main():\n    chinela = Chinela()\n\n    while True:\n        try:\n            line: str = input()\n        except EOFError:\n            break\n\n        print(\"$\" + line)\n        args: list[str] = line.split(\" \")\n\n        if args[0] == \"end\":\n            break\n        elif args[0] == \"show\":\n            print(chinela)\n        elif args[0] == \"init\":\n            try:\n                tamanho = int(args[1])\n                chinela.settamanho(tamanho)\n            except (IndexError, ValueError):\n                print(\"erro: valor inv\u00e1lido para tamanho\")\n\nmain()\n",
+            "lines": "43"
+        }
+    ]
+}

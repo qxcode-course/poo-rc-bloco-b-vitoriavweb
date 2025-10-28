@@ -1,0 +1,131 @@
+2025-10-28 13:29:17, MOVE, v:1, k:poo@relogio, mode:DOWN
+2025-10-28 13:29:27, MOVE, v:1, k:poo@roupa, mode:DOWN
+2025-10-28 13:34:10, MOVE, v:1, k:poo@relogio, mode:PICK
+2025-10-28 13:34:11, EXEC, v:1, k:poo@relogio, mode:FULL, rate:100, size:72
+2025-10-28 13:34:16, MOVE, v:1, k:poo@relogio, mode:BACK
+2025-10-28 13:35:00, SELF, v:1, k:poo@relogio, rate:100, iagen:identificar_erros, alone:9, study:40
+2025-10-28 13:35:45, MOVE, v:1, k:poo@roupa, mode:PICK
+2025-10-28 13:35:58, EXEC, v:1, k:poo@roupa, mode:FULL, rate:100, size:38
+2025-10-28 13:36:02, MOVE, v:1, k:poo@roupa, mode:BACK
+2025-10-28 13:36:30, SELF, v:1, k:poo@roupa, rate:100, alone:10, study:40
+2025-10-28 13:37:49, MOVE, v:1, k:poo@chinela, mode:DOWN
+2025-10-28 13:38:03, MOVE, v:1, k:poo@chinela, mode:PICK
+2025-10-28 13:38:04, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100, size:43
+2025-10-28 13:38:05, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:05, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:05, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:06, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:38:07, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:39:02, MOVE, v:1, k:poo@chinela, mode:BACK
+2025-10-28 13:39:13, MOVE, v:1, k:poo@motoca, mode:DOWN
+2025-10-28 13:39:26, MOVE, v:1, k:poo@motoca, mode:PICK
+2025-10-28 13:39:27, EXEC, v:1, k:poo@motoca, mode:FULL, rate:6, size:89
+2025-10-28 13:39:44, EXEC, v:1, k:poo@motoca, mode:FULL, rate:6, size:89
+2025-10-28 13:40:14, EXEC, v:1, k:poo@motoca, mode:FULL, rate:6, size:89
+2025-10-28 13:42:20, EXEC, v:1, k:poo@motoca, mode:FULL, rate:33, size:88
+2025-10-28 13:42:52, MOVE, v:1, k:poo@motoca, mode:PICK
+2025-10-28 13:42:53, EXEC, v:1, k:poo@motoca, mode:FULL, rate:33
+2025-10-28 13:43:59, EXEC, v:1, k:poo@motoca, mode:FULL, rate:100, size:88
+2025-10-28 13:44:08, MOVE, v:1, k:poo@motoca, mode:BACK
+2025-10-28 13:46:27, SELF, v:1, k:poo@motoca, rate:100, human:pedro_lucas_minha_dupla_ajudou_em_algumas_funcoes_que_tinha_erro, iagen:identificando_erros, alone:7, study:144
+2025-10-28 13:47:45, MOVE, v:1, k:poo@camisa, mode:DOWN
+2025-10-28 13:51:16, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:51:17, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0, size:35
+2025-10-28 13:51:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100, size:38
+2025-10-28 13:51:57, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:51:57, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:51:57, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:51:57, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:22, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:22, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:22, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:22, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:23, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:26, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:26, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:27, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:27, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:27, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:52:36, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:52:37, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:52:40, EXEC, v:1, k:poo@camisa, mode:FREE
+2025-10-28 13:53:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:55, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:56, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:56, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:53:58, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:54:05, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:54:05, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:54:06, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:54:07, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:54:07, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:54:32, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100, size:40
+2025-10-28 13:54:32, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0, size:40
+2025-10-28 13:54:32, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0, size:40
+2025-10-28 13:54:33, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0, size:40
+2025-10-28 13:54:33, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0
+2025-10-28 13:54:34, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0
+2025-10-28 13:54:34, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0
+2025-10-28 13:54:34, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:0
+2025-10-28 13:54:42, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100, size:39
+2025-10-28 13:55:24, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:24, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:24, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:24, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:25, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:26, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:26, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:55:33, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:55:33, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:55:34, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:55:37, MOVE, v:1, k:poo@chinela, mode:PICK
+2025-10-28 13:55:38, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:55:38, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:55:39, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:55:39, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:55:39, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:55:45, MOVE, v:1, k:poo@chinela, mode:BACK
+2025-10-28 13:56:46, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:56:47, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:56:47, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:56:47, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:56:53, EXEC, v:1, k:poo@camisa, mode:LOCK, rate:100
+2025-10-28 13:57:06, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:57:13, MOVE, v:1, k:poo@chinela, mode:PICK
+2025-10-28 13:57:13, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:57:14, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:57:14, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:57:14, EXEC, v:1, k:poo@chinela, mode:LOCK, rate:100
+2025-10-28 13:57:15, MOVE, v:1, k:poo@chinela, mode:BACK
+2025-10-28 13:58:30, SELF, v:1, k:poo@chinela, rate:100, alone:10, study:90
+2025-10-28 13:58:32, MOVE, v:1, k:poo@camisa, mode:PICK
+2025-10-28 13:58:34, MOVE, v:1, k:poo@camisa, mode:BACK
+2025-10-28 13:58:51, SELF, v:1, k:poo@camisa, rate:100, alone:10, study:30
+2025-10-28 13:58:57, SELF, v:1, k:poo@roupa, rate:100, alone:10, study:40
+2025-10-28 13:59:05, SELF, v:1, k:poo@relogio, rate:100, iagen:identificar_erros, alone:9, study:40
+2025-10-28 13:59:07, MOVE, v:1, k:poo@motoca, mode:PICK
+2025-10-28 13:59:09, MOVE, v:1, k:poo@motoca, mode:BACK
+2025-10-28 13:59:26, SELF, v:1, k:poo@motoca, rate:100, human:pedro_lucas_minha_dupla_ajudou_em_algumas_funcoes_que_tinha_erro, iagen:identificando_erros, alone:7, study:150
+2025-10-28 14:03:00, MOVE, v:1, k:poo@notebook, mode:DOWN
+2025-10-28 14:06:12, MOVE, v:1, k:poo@grafite, mode:DOWN
+2025-10-28 14:06:27, MOVE, v:1, k:poo@charger, mode:DOWN

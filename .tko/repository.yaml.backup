@@ -1,0 +1,35 @@
+version: '0.2'
+sources:
+- database: local
+  link: ''
+  type: local
+  branch: master
+  cache_path: ''
+  cache_timestamp: ''
+  filters: null
+- database: poo
+  link: /workspaces/poo-rc-bloco-b-vitoriavweb/.tko/cache/poo/Readme.md
+  type: clone
+  branch: master
+  cache_path: /workspaces/poo-rc-bloco-b-vitoriavweb/.tko/cache/poo/Readme.md
+  cache_timestamp: '2025-10-28 13:28:52'
+  filters: null
+expanded:
+- poo@campanha-principal
+- poo@bloco_b-modificadores-de-acesso
+- poo@bloco_b-agregação-simples
+tasks:
+  poo@chinela: '{rate:100, alone:10, study:90}'
+  poo@camisa: '{rate:100, alone:10, study:30}'
+  poo@roupa: '{rate:100, alone:10, study:40}'
+  poo@relogio: '{rate:100, iagen:identificar_erros, alone:9, study:40}'
+  poo@motoca: '{rate:100, human:pedro_lucas_minha_dupla_ajudou_em_algumas_funcoes_que_tinha_erro,
+    iagen:identificando_erros, alone:7, study:150}'
+flags:
+  quests: 0
+  tracks: 0
+  tasks: 0
+  graph: 0
+  xray: 0
+lang: py
+selected: poo@charger
